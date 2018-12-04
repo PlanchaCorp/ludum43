@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 95cfbaf513dead548b4ba25ca61a9445, type: 3}
+  m_Name: Level2
+  m_EditorClassIdentifier: 
+  levelName: Level2
+  sizeX: 4
+  SizeY: 4
+  minRoomQuantity: 4
+  maxRoomQuantity: 10
+  Dialog:
+  - I know this drawing. It is in the Necrophitescon. It depicts a monstrous entity,
+    born from the mud and granting its invokers enough power to rule sky and earth.
+    At what cost? I remember something about clay, blood and water.
+  - "These notes are irrelevant. They are just depicting the water debit on a weekly
+    basis. Wait. When it goes below a threshold, a word is written. \u201CInitiate
+    filling procedure.\u201D What does it mean?"
+  - "Ah! More notes about the water sources. They are filling reservoirs, that allows
+    a controlled flow to something called \u201CThe pond.\u201D Emptying the reservoirs
+    must be the source of the droughts in the village."

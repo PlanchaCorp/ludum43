@@ -1,0 +1,68 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Obstacle
+  - Ennemy
+  - BloodBar
+  - SkillSlot
+  - SkillCooldown
+  - PlayerAndCamera
+  - Note
+  - SkillBtn
+  - Objectives
+  - DeskSpawner
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Ennemies
+  - Player
+  - Obstacle
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Ground
+    uniqueID: 3799678443
+    locked: 0
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Obstacle
+    uniqueID: 2514890373
+    locked: 0
+  - name: Entity
+    uniqueID: 1336949425
+    locked: 0
+  - name: Gameplay
+    uniqueID: 141166699
+    locked: 0
+  - name: UI
+    uniqueID: 1270853583
+    locked: 0

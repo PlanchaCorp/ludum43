@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 95cfbaf513dead548b4ba25ca61a9445, type: 3}
+  m_Name: Level1
+  m_EditorClassIdentifier: 
+  levelName: Level1
+  sizeX: 3
+  SizeY: 3
+  minRoomQuantity: 3
+  maxRoomQuantity: 7
+  Dialog:
+  - "Hmmm\u2026 Notes and bills\u2026 The De Valborgne family seems to own both the
+    water network and the quarry and freely distribute their services to the village.
+    No wonder they can do whatever they want with it!\r"
+  - "Letters? From a \u2026 High priest? \u201CThe feast is almost ready.\u201D They
+    do not want anyone lurking around. That explains why those guys want to stop me.
+    Or maybe kill me. What are they? Cultists? From what cult?"

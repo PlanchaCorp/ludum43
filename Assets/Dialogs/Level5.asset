@@ -1,0 +1,31 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 95cfbaf513dead548b4ba25ca61a9445, type: 3}
+  m_Name: Level5
+  m_EditorClassIdentifier: 
+  levelName: Level5
+  sizeX: 6
+  SizeY: 6
+  minRoomQuantity: 18
+  maxRoomQuantity: 28
+  Dialog:
+  - "There is a count of the cultist. Wow, that\u2019s a huge number. Where do they
+    come from? Why is this the unique record I have about them?"
+  - "Is it\u2026Yes! The name of the creature is Ch\u2019boulu. He grants unbelievable
+    power to the ones invoking Him a devour the souls sacrificed to him. His body
+    is made of clay and water, and the blood nourishes Him."
+  - "Infinite power. At what cost? Oh. There is a number. The number of girls that
+    have gone missing. Roughly the same as the one of cultist. Ch\u2019boulu is eating
+    the soul of those poor girls, making them proper cultists."
+  - "This is it. The final desk, the final proof. The amount of clay, the volume of
+    water\u2026 the perfect recipe for the unholy monster. I am afraid Emilie has
+    already been murdered. I need to go deeper, maybe I am the only one that have
+    the power to make it stop?"

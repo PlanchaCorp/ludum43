@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 95cfbaf513dead548b4ba25ca61a9445, type: 3}
+  m_Name: Level3
+  m_EditorClassIdentifier: 
+  levelName: Level3
+  sizeX: 4
+  SizeY: 4
+  minRoomQuantity: 6
+  maxRoomQuantity: 14
+  Dialog:
+  - Great, I must be in the quarry area of the manor. The De Valborgne started to
+    dig it to build their mansion. Gosh, there is a lot of clay coming out of there!
+    And they are only selling less than half of it?
+  - "Bills again. \u201CFamily employee since 1598.\u201D They used to pay a lot of
+    people. But now there is only one person left? G. Ruik. I wonder if it is a descendent
+    from that G. Ruik they hired when they arrived."
+  - "\u201CA new girl is born.\u201D They seem to maintain a pretty nice record of
+    the village birth rate. And the phase of the moon they are born into. Some of
+    them have arrows. So does the little Emilie, who has been missing for 2 days."

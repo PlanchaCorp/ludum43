@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f6e4e4fc705376343a3e65b25d94f0e2, type: 3}
+  m_Name: Cave
+  m_EditorClassIdentifier: 
+  m_Sprites:
+  - {fileID: 21300020, guid: bf06c7e687a4ae740b052364089331bf, type: 3}
+  - {fileID: 21300034, guid: bf06c7e687a4ae740b052364089331bf, type: 3}
+  - {fileID: 21300022, guid: bf06c7e687a4ae740b052364089331bf, type: 3}
+  - {fileID: 21300030, guid: bf06c7e687a4ae740b052364089331bf, type: 3}
+  - {fileID: 21300058, guid: bf06c7e687a4ae740b052364089331bf, type: 3}
+  - {fileID: 21300070, guid: bf06c7e687a4ae740b052364089331bf, type: 3}
+  - {fileID: 21300016, guid: bf06c7e687a4ae740b052364089331bf, type: 3}
+  - {fileID: 21300036, guid: bf06c7e687a4ae740b052364089331bf, type: 3}
+  - {fileID: 21300028, guid: bf06c7e687a4ae740b052364089331bf, type: 3}
+  - {fileID: 21300020, guid: bf06c7e687a4ae740b052364089331bf, type: 3}
+  - {fileID: 21300048, guid: bf06c7e687a4ae740b052364089331bf, type: 3}
+  - {fileID: 21300024, guid: bf06c7e687a4ae740b052364089331bf, type: 3}
+  - {fileID: 21300074, guid: bf06c7e687a4ae740b052364089331bf, type: 3}
+  - {fileID: 21300054, guid: bf06c7e687a4ae740b052364089331bf, type: 3}
+  - {fileID: 21300020, guid: bf06c7e687a4ae740b052364089331bf, type: 3}
